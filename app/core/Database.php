@@ -4,7 +4,7 @@ class Database {
     private $host = 'localhost';
     private $user = 'root';
     private $pass = '';
-    private $db_name = 'pemweblan';
+    private $db_name = 'db_hotel';
     private $stmt,$koneksi;
 
     public function __construct() {

@@ -1,9 +1,9 @@
 <?php
 
-define('BASEURL','http://localhost/pemweblan/05/public');
+define('BASEURL','http://192.168.64.2/mvc/public/');
 
 //db
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'pemweblan');
+define('DB_NAME', 'db_hotel');

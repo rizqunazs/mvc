@@ -14,17 +14,26 @@
 
         <div class="container">
 
-            <a class="navbar-brand" href="<?= BASEURL; ?>">Tugas 05</a>
+            <a class="navbar-brand" href="<?= BASEURL; ?>">Home</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>">Form Mahasiswa</a>
+                        <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>/lihatdata">Lihat Data Mahasiswa</a>
+                        <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>/lihatdata">Rooms</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>">Events</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>">Dining</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>">Contact</a>
                     </li>
                 </ul>
             </div>
